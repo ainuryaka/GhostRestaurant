@@ -1,0 +1,106 @@
+.originalLogo.originalLogo {
+  left: 721px;
+  top: 12px;
+  width: 197px;
+  height: 39px;
+}
+.cuisine {
+  color: #fff;
+  font-size: 27.67px;
+  line-height: 29.3333px;
+  font-weight: 600;
+  font-style: italic;
+  font-family: Playfair Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.4px;
+  position: absolute;
+  left: 22.6277%;
+  right: -12.9831%;
+  top: 10.3448%;
+  bottom: 12.7321%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: absolute;
+  left: 50%;
+  top: 4072px;
+  width: 1640px;
+  height: 204px;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.bG {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 17.9969%;
+  background-color: #2c2115;
+}
+.copyright2023HashtagDeveloperA {
+  color: #adb29e;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -9.2px);
+  top: 53.3767%;
+  bottom: 44.0566%;
+  width: 424px;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.line311 {
+  position: absolute;
+  left: 10.061%;
+  right: 8.939%;
+  top: 49.6782%;
+  bottom: 49.8316%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #414536;
+  margin-bottom: -1px;
+}
+.col1 {
+  position: absolute;
+  left: calc(50% - -37.5px);
+  top: 66px;
+  width: 173px;
+  height: 39px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.social {
+  width: 168px;
+  height: 39px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ghostSvgrepoCom21 {
+  position: absolute;
+  left: 728px;
+  top: 12px;
+  width: 34px;
+  height: 38px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.ghostSvgrepoCom31 {
+  position: absolute;
+  left: 7.1429%;
+  right: 4.7619%;
+  top: 10.6383%;
+  bottom: 10.6383%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
